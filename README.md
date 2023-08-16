@@ -1,6 +1,7 @@
 # Advanced Bioinformatics - 2023
 > [!NOTE]
 > This repository belongs to the course of the second semester of the year 2023
+> > Main contact: Dr. Marcelo Martí  ✉
 
 ## Description
 
