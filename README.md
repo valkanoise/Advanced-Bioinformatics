@@ -8,11 +8,11 @@ In here you will find all it´s relevant material and solved exercises
 
 ## Content
 
-[Here](docs/Curricular_program.pdf) you can find the guideline of this subject(docs/Curricular_program.pdf)
+[Here](docs/Curricular_program.pdf) you can find the guideline of this subject
 
 ## Usage
 
-In [here](https://www.dropbox.com/sh/5t555r1h9jn2bs1/AADQdZqYv3G-pjZuzbxuLTmua?dl=0) you can reach the main website of the subtect (https://www.dropbox.com/sh/5t555r1h9jn2bs1/AADQdZqYv3G-pjZuzbxuLTmua?dl=0)
+In [here](https://www.dropbox.com/sh/5t555r1h9jn2bs1/AADQdZqYv3G-pjZuzbxuLTmua?dl=0) you can reach the main website of the subtect 
 
 ## Theoretical classes
 
