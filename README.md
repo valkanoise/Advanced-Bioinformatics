@@ -5,44 +5,25 @@
 This course belongs to the _Facultad de Ciencias Exactas_ (FCEN) from the _Universidad de Buenos Aires_ (UBA)
 In here you will find all it´s relevant material and solved exercises 
 
-## Table of Contents
-
-- [Subject´s content](#content)
-- [Usage](#usage)
-- [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Content
 
-[Here you can find the guideline of this subject](docs/Curricular_program.pdf)
+[Here] you can find the guideline of this subject(docs/Curricular_program.pdf)
 
 ## Usage
 
-Guidelines on how to use the project, code examples, or screenshots.
+In [here] you can reach the main website of the subtect (https://www.dropbox.com/sh/5t555r1h9jn2bs1/AADQdZqYv3G-pjZuzbxuLTmua?dl=0)
 
-## Features
+## Theoretical classes
 
-List of key features or functionalities of the project.
+[Link] to the recorded classes (https://www.dropbox.com/sh/5t555r1h9jn2bs1/AADKCfBLJMK5QdkerJ11hR0_a/Teoricas?dl=0&subfolder_nav_tracking=1)
 
-## Contributing
+## Recommended exercises
 
-Information on how others can contribute to the project, including guidelines for pull requests and issue reporting.
+[Link] to the proposed exercises (https://www.dropbox.com/sh/5t555r1h9jn2bs1/AAA063YB5zEeuEBZa0bJrj1Ha/TPs?dl=0&subfolder_nav_tracking=1=)
 
-## License
+## Solved exercises
 
-Details about the project's licensing. Specify the type of license and provide a link to the license file.
+[Link] to the folder with all the solved exercises (solved_exercises/)
 
----
 
-## Acknowledgements
-
-Any acknowledgements or credits to individuals or resources that have contributed to the project.
-
-## Contact
-
-Provide your contact information, such as email or social media links, for inquiries or feedback.
-
-## Additional Information
-
-Any extra information or sections you'd like to add, such as FAQs or troubleshooting.
