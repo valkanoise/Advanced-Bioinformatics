@@ -12,9 +12,9 @@ In here you will find all it´s relevant material and solved exercises
 
 [Here](docs/Curricular_program.pdf) you can find the guideline of this subject
 
-## Usage
+## Main website
 
-In [here](https://www.dropbox.com/sh/5t555r1h9jn2bs1/AADQdZqYv3G-pjZuzbxuLTmua?dl=0) you can reach the main website of the subtect 
+In [here](https://www.dropbox.com/sh/5t555r1h9jn2bs1/AADQdZqYv3G-pjZuzbxuLTmua?dl=0) you can reach the main website of the subject 
 
 ## Theoretical classes
 
