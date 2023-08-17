@@ -29,4 +29,7 @@ In [here](https://www.dropbox.com/sh/5t555r1h9jn2bs1/AADQdZqYv3G-pjZuzbxuLTmua?d
 
 [Link](solved_exercises/) to the folder with all the solved exercises 
 
+## Drive to upload exercises
+[Link](https://drive.google.com/drive/folders/1J5A_gwsYyf7NhmWZUhtdNsftmPjKxQcA?usp=sharing) to upload your exercises
+
 

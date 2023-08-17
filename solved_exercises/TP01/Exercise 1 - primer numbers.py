@@ -1,4 +1,6 @@
-'''In this exercise we create a list of prime numbers from a selected range of 
+'''
+Exercise 1:
+In this exercise we create a list of prime numbers from a selected range of 
 numbers. Additionaly we measure the required time for the process to occur.
 '''
 

@@ -1,14 +1,14 @@
 """
 Exercise 2:
     
-Haga un programa que pregunte: Nombre, fecha de nacimiento y DNI y los combine 
-de manera elegante para obtener posibles passwords de HomeBanking u otras 
-aplicaciones. (recuerde que usualmente la clave debe ser de 8 caracteres, 
-al menos 2 letras, al menos 2 números, y no puede contener fragmentos de la 
-fecha de nacimiento, nombre o DNI). Consejo: use el orden del alfabeto y/o el 
-pad númerico de celulares viejos para interconvertir números-letras 
-(piense que un string no es otra cosa que una cadena (lista?) de caracteres
-individuales.
+Make a program that asks: Name, date of birth and ID and combine them
+in an elegant way to obtain possible HomeBanking passwords or other
+Applications (remember that usually the password must be 8 characters long,
+at least 2 letters, at least 2 numbers, and cannot contain fragments of the
+date of birth, name or ID). Tip: Use the order of the alphabet and/or the
+old cell phone number pad to interconvert numbers-letters
+(Think that a string is nothing more than a string (list?) of characters
+individual.
     
 """
 import random
