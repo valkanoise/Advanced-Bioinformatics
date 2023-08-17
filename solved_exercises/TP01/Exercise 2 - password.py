@@ -25,8 +25,8 @@ numeric_pad = {'a': '2', 'b': '2', 'c': '2', 'd': '3', 'e': '3', 'f': '3', 'g': 
 
 def pwd_gen(name, birthdate, dni):
     '''
-    Function that selects 2 random chars from name, 2 random nrs from birthdate
-    and 2 random numbers from dni.
+    Function that selects 2 random chars from name, 3 random nrs from birthdate
+    and 3 random numbers from dni.
     Then transforms nrs to letters using alphabet and chars to numbers using 
     the numeric pad.
     Finally it shuffles the 8 elements of the list and joins them in a string
