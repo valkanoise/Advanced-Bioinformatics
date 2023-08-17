@@ -30,7 +30,9 @@ def pwd_gen(name, birthdate, dni):
     Then transforms nrs to letters using alphabet and chars to numbers using 
     the numeric pad.
     Finally it shuffles the 8 elements of the list and joins them in a string
-
+    
+    Input: 3 strings
+    
     Returns: A string with 8 elements (6 letters and 2 numbers)
     '''
     random_sel = random.choices(name.lower(), k=2) + random.choices(birthdate, k=3) + random.choices(dni, k=3)
